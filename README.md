@@ -3,8 +3,8 @@ https://www.youtube.com/watch?v=gyPHCDPvkoI&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHo
 
 Current link at:
 Part 4-Blender Beginner Tutorial (Modelling The Environment)
-https://www.youtube.com/watch?v=MuY9hpYWVho&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1&index=6
-Stop at: 0:00
+https://www.youtube.com/watch?v=MuY9hpYWVho&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1&index=7
+Stop at: 29:11
 
 # Shortcuts:
 
@@ -21,5 +21,11 @@ E: Extrude
 Shift+C: Center the 3D cursor to the world and focus on object
 Shift+N: Recalculate Normals (To flip the object so that the face orientation is correct) 0 Inside or out
 F: Fill face on the selected vertices
+Ctrl+A: Apply modifier to object
+
 Edit Mode:
 Vertice Select: Alt + Click => Select the edge and the rest that belongs to the same edge loop
+O: Propotional Editing
+
+- Modifier: Solidify -> Add a thickness to object
+- To make the object smooth, right click and choose shade smooth
