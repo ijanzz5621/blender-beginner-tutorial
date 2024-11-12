@@ -22,6 +22,8 @@ Shift+C: Center the 3D cursor to the world and focus on object
 Shift+N: Recalculate Normals (To flip the object so that the face orientation is correct) 0 Inside or out
 F: Fill face on the selected vertices
 Ctrl+A: Apply modifier to object
+L: Select Linked vertices (select 1 vertex before press L)
+Ctrl+B - Add Bevel (Scroll to add more vertices)
 
 Edit Mode:
 Vertice Select: Alt + Click => Select the edge and the rest that belongs to the same edge loop
