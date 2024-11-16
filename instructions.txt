@@ -25,6 +25,7 @@ Ctrl+A: Apply modifier to object
 L: Select Linked vertices (select 1 vertex before press L)
 Ctrl+B - Add Bevel (Scroll to add more vertices)
 Shift+C: focus to center of the scene
+Shift+S: Open menu for SELECTION TO CURSOR (Place selected object to 3D cursor)
 
 Ctrl+I (Object Mode) - Inverse selection
 H: Hide
@@ -35,10 +36,19 @@ Edit Mode:
 Vertice Select: Alt + Click => Select the edge and the rest that belongs to the same edge loop
 O: Propotional Editing
 
+T: Left menu
+N: Right menu
+
 Skin Modifier:
 Edit Mode: 
 A: Select All
 Ctrl+ A scale the skin
+
+F3: Search
+
+Select sub object:
+===============
+Hover the object in the Edit Mode and press "L"
 
 Ctrl+P: Parent:
 --------------------
@@ -46,7 +56,13 @@ Ctrl+P: Parent:
 - When we move the parent, the other object that has been set as its child will move together
 - Alt+P: Clear the parent for the selected object
 
-
 - Modifier: Solidify -> Add a thickness to object
 - To make the object smooth, right click and choose shade smooth
+
+Rotate vertices without effect the edge:
+	1. Ctrl+R - To add the cut
+	2. During the cut placement, press Ctrl+Shift+Alt+S (Scale) and press X for axis and drag with wheel button to adjust the slope angle. Once satisfy, click left mouse button to place the slope cut 
+
+
+Free material for blender: https://polyhaven.com/
 
