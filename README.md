@@ -2,8 +2,8 @@ Initial Link:
 https://www.youtube.com/watch?v=gyPHCDPvkoI&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1
 
 Current link at:
-Part 4-Blender Beginner Tutorial (Modelling The Environment)
-https://www.youtube.com/watch?v=MuY9hpYWVho&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1&index=7
+Part 11-Blender Beginner Tutorial (Animation And Rendering) 🏠
+https://www.youtube.com/watch?v=dF3JMt3uM1E&list=PLsGl9GczcgBtK0EKjiHyM_86DIFrHocF1&index=13
 Stop at: 28:12
 
 # Shortcuts:
